@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Paradocx96!](https://paradocx96.github.io) 👋
 
 <!--
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&theme=blueberry)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&theme=blue-green)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical)
+
+![1](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
