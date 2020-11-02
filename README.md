@@ -1,4 +1,4 @@
-### Hi there, I'm [Paradocx96!](https://paradocx96.github.io) 👋
+### Hi there, I'm [Paradocx96!](https://github.com/paradocx96) 👋
 
 <!--
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
