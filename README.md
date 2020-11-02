@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&theme=blueberry)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&theme=blue-green)
--->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" /></p>
-<--
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical)
 -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" /></p>
+
 ![1](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
 
 **Visitors Count**  
