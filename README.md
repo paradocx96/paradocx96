@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&theme=blueberry)]
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&theme=blue-green)
