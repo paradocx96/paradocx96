@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![1](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
 -->
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" /></p>
+<p><img width="80%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" /></p>
 
 <p><img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical" /></p>
 
