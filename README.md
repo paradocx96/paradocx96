@@ -1,4 +1,4 @@
-### Hi there, I'm [Paradocx96!](https://github.com/paradocx96) 👋
+### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 
 <!--
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical)
 
 ![1](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
--->
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" />
 
-<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" />
+-->
+![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
