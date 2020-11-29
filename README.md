@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 
 ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-**Visitors Count**  
+<!--
+**Visitors Count**
+-->
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
