@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" />
+<img align="center" alt="GIF" height="400px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" />
 
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 
