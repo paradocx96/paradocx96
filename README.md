@@ -1,4 +1,15 @@
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" />
+
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
+
+![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
+
+</div>
 
 <!--
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,12 +35,5 @@ Here are some ideas to get you started:
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" />
 
--->
-
-![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
-
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-<!--
 **Visitors Count**
 -->
-![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
