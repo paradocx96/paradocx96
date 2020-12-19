@@ -3,6 +3,22 @@
 
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 
+<div>
+  <div width="50%">
+    I'm a second year student pursuing Bachelor of Science(Hons) in Information Technology 🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
+  </div>
+  <div width="50%">
+    - 🔭 I’m currently working something else.
+    - 🌱 I’m currently learning React.
+    - 👯 I’m looking to collaborate with other develoopers.
+    - 💬 Ask me about HTML.
+  </div>
+</div>
+    
+    
+### Contact Me :
+[![Navinda Lankesh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/paradocx96)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 
 ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
