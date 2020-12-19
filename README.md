@@ -8,6 +8,8 @@
 
 I'm a second year student pursuing Bachelor of Science(Hons) in Information Technology 🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
+<img align="right" height="300" width="300" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
+
 ### Know more about me:
 - 🔭 I’m currently working something else.
 - 🌱 I’m currently learning React.
