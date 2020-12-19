@@ -1,13 +1,26 @@
+<style>
+.left {
+  width="50%";
+  position: absolute;
+  left: 0;
+}
+
+.right {
+position: absolute;
+   right: 0;
+}
+</style>
+
 <div align="center">
 <img align="center" alt="GIF" height="400px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" />
 
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 
 <div>
-  <div width="50%">
+  <div id="left">
     I'm a second year student pursuing Bachelor of Science(Hons) in Information Technology 🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
   </div>
-  <div width="50%">
+  <div id="right">
     - 🔭 I’m currently working something else.
     - 🌱 I’m currently learning React.
     - 👯 I’m looking to collaborate with other develoopers.
@@ -17,7 +30,12 @@
     
     
 ### Contact Me :
-[![Navinda Lankesh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/paradocx96)
+<a href="https://dev.to/paradocx96">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Navinda Lankesh's DEV Profile" height="30" width="30">
+</a>
+<br />
+<br />
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 
@@ -29,6 +47,8 @@
 
 <!--
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Navinda Lankesh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/paradocx96)
 
 Here are some ideas to get you started:
 
