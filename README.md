@@ -24,24 +24,25 @@ I'm a second year student pursuing Bachelor of Science(Hons) in Information Tech
 <br />
 
 <div align="center">
-  
-![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+<p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+<img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
 
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
 
 </div>
 
 <p align="center">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/grim-repo.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/catstello.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/543-5431552_oktobercat-github-octocat.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/dcef3abedf0e0761203aaeb85886a6f3.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/inspectocat.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="100px">  
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/grim-repo.jpg" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/catstello.png" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/543-5431552_oktobercat-github-octocat.png" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/dcef3abedf0e0761203aaeb85886a6f3.jpg" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/inspectocat.jpg" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="110px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="110px">  
  </p>
 
 
@@ -49,6 +50,10 @@ I'm a second year student pursuing Bachelor of Science(Hons) in Information Tech
 **paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Navinda Lankesh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/paradocx96)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Here are some ideas to get you started:
 
