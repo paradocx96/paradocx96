@@ -31,7 +31,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <br />  
 
 
@@ -49,10 +49,10 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 <a href="https://www.instagram.com/navindalankesh_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Navinda Lankesh's Instagram Profile">
 </a>  
-<a href="https://github.com/paradocx96/">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Navinda Lankesh's GitHub Profile">
+<a href="https://gitlab.com/paradocx96">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Navinda Lankesh's GitLab Profile">
 </a>
-
+<br />
 <br />
 
 <div align="center">
