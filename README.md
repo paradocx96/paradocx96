@@ -14,7 +14,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 - 🔭 I’m currently working on React-Project.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate with other develoopers.
-- 💬 Ask me about HTML/CSS.
+- 💬 Ask me about Java / HTML / CSS.
 
 ### Contact Me :
 <a href="https://dev.to/paradocx96">
