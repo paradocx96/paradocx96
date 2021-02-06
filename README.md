@@ -10,7 +10,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
 
-### Know more about me:
+### ⚡ Know more about me
 - 🔭 I’m currently working on React-Project.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate with other develoopers.
@@ -35,7 +35,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 <br />  
 
 
-### Contact Me :
+### ⚡ Contact Me
 
 <a href="https://dev.to/paradocx96/">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Navinda Lankesh's DEV Profile">
