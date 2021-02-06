@@ -6,7 +6,7 @@
 
 ### About Me! 🤩 &nbsp;
 
-I'm a third year student pursuing BSc(Hons) Information Technology Specialising in Software Engineering 🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
+I'm a third year student pursuing BSc(Hons) Information Technology Specialising in Software Engineering 🎓 from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">Sri Lanka Institute of Information Technology</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
 
@@ -16,11 +16,43 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 - 👯 I’m looking to collaborate with other develoopers.
 - 💬 Ask me about Java / HTML / CSS.
 
+### ⚡ Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MsSql](https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)  
+<br />  
+
+
 ### Contact Me :
-<a href="https://dev.to/paradocx96">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Navinda Lankesh's DEV Profile" height="30" width="30">
+
+<a href="https://dev.to/paradocx96/">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Navinda Lankesh's DEV Profile">
 </a>
-<br />
+<a href="https://www.linkedin.com/in/navinda-lankesh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Navinda Lankesh's LinkedIn Profile">
+</a>  
+<a href="https://www.facebook.com/navindalankesh/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Navinda Lankesh's Facebook Profile">
+</a>
+<a href="https://www.instagram.com/navindalankesh_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Navinda Lankesh's Instagram Profile">
+</a>  
+<a href="https://github.com/paradocx96/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Navinda Lankesh's GitHub Profile">
+</a>
+
 <br />
 
 <div align="center">
@@ -44,37 +76,3 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
   <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="100px">
   <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="100px">  
  </p>
-
-
-<!--
-**paradocx96/paradocx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Navinda Lankesh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/paradocx96)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
-
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&theme=blueberry)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&theme=blue-green)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical)
-
-![1](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&theme=radical)
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&include_all_commits=true&theme=radical" />
-
-**Visitors Count**
--->
