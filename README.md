@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" height="400px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" />
+<img align="center" alt="GIF" height="380px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" />
 
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 </div>
@@ -12,7 +12,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 
 ### ⚡ Know more about me
 - 🔭 I’m currently working on React-Project.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript / React.
 - 👯 I’m looking to collaborate with other develoopers.
 - 💬 Ask me about Java / HTML / CSS.
 
