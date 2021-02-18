@@ -56,11 +56,10 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 <br />
 
 <div align="center">  
- 
-<p>
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
- <img width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
+
+[![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paradocx96)](https://wakatime.com/@paradocx96)
 
@@ -81,6 +80,10 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
  </p>
 
  <!--
+<p>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+ <img width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paradocx96)](https://github.com/paradocx96)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
 [![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
