@@ -56,13 +56,11 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 <br />
 
 <div align="center">  
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
 <p>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+  <img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />  
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
 
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
 
@@ -88,6 +86,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paradocx96)](https://github.com/paradocx96)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
 [![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
 [![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000)](https://wakatime.com/@paradocx96)
 -->
