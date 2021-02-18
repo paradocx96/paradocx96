@@ -48,9 +48,6 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 </a>
 <a href="https://www.instagram.com/navindalankesh_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Navinda Lankesh's Instagram Profile">
-</a>  
-<a href="https://gitlab.com/paradocx96">
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Navinda Lankesh's GitLab Profile">
 </a>
 <br />
 <br />
@@ -79,6 +76,9 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
  </p>
 
  <!--
+<a href="https://gitlab.com/paradocx96">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Navinda Lankesh's GitLab Profile">
+</a>
 <p>
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
  <img width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
