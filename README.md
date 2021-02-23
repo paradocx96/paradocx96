@@ -59,7 +59,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
   <p>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
   
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
+  <img width="57%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
   </p>
 
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
