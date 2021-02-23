@@ -66,14 +66,14 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 </div>
 
 <p align="center">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/grim-repo.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/catstello.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/543-5431552_oktobercat-github-octocat.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/dcef3abedf0e0761203aaeb85886a6f3.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/inspectocat.jpg" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="100px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="100px">  
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/grim-repo.jpg" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/catstello.png" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/543-5431552_oktobercat-github-octocat.png" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/dcef3abedf0e0761203aaeb85886a6f3.jpg" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/inspectocat.jpg" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="70px">
+  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="70px">  
  </p>
 
  <!--
