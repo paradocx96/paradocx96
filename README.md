@@ -61,6 +61,8 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
 
+[_State since Feb-17-2021_](https://wakatime.com/@paradocx96)
+
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
 
 </div>
