@@ -34,7 +34,6 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <br />  
 
-<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
 
 ### ⚡ Contact Me
 
@@ -59,19 +58,16 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
   
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" /> 
-   
-  
-<div align="center"> 
-  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
+
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
 
 </div>
 
 
  <!--
+<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
 <a href="https://gitlab.com/paradocx96">
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Navinda Lankesh's GitLab Profile">
 </a>
