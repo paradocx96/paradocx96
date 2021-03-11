@@ -34,6 +34,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <br />  
 
+<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
 
 ### ⚡ Contact Me
 
@@ -60,9 +61,7 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 </p>
 </div>
 
-<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" /> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" /> 
    
   
 <div align="center"> 
