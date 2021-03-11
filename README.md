@@ -60,9 +60,9 @@ I'm a third year student pursuing BSc(Hons) Information Technology Specialising 
 </p>
 </div>
 
-<img align="right" width="300" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
+<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" /> 
    
   
 <div align="center"> 
