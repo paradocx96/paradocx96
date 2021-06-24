@@ -53,44 +53,35 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
 <br />
 
 <div align="center">  
-<p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+
   
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
-
-[_Wakatime stats since Feb-17-2021_](https://wakatime.com/@paradocx96)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/paradocx96)  
+  
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Paradocx96's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paradocx96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Paradocx96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paradocx96&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>  
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>  
+  
+<details> 
+  <summary>💻 GitHub Wakatime Stats</summary>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
+  
+  [_Wakatime stats since Feb-17-2021_](https://wakatime.com/@paradocx96)
+  
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>  
 
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
 
-</div>
-
-
- <!--
-<img align="right" width="250" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/gobbleotron.gif" />
-<a href="https://gitlab.com/paradocx96">
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Navinda Lankesh's GitLab Profile">
-</a>
-<p>
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
- <img width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paradocx96)](https://github.com/paradocx96)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
-[![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/paradocx96)
-[![Languages stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paradocx96&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/paradocx96)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000)](https://wakatime.com/@paradocx96)
-<p align="center">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/grim-repo.jpg" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/catstello.png" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/543-5431552_oktobercat-github-octocat.png" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/codercat.jpg" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/dcef3abedf0e0761203aaeb85886a6f3.jpg" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/inspectocat.jpg" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/mountietocat.png" height="70px">
-  <img src="https://github.com/paradocx96/paradocx96/blob/main/images/privateinvestocat.jpg" height="70px">  
- </p>
--->
+</div>  
