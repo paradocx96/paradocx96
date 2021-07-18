@@ -53,9 +53,9 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
 <br />
 
 <div align="center">  
-
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/paradocx96)  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/paradocx96)  
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paradocx96&theme=redical)](https://github.com/paradocx96)  
   
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
