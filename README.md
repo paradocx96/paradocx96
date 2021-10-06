@@ -83,6 +83,7 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>  
 
-![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)
+[![wakatime](https://wakatime.com/badge/user/969f949e-b0e5-4f95-8225-6d0354fe3bd6.svg)](https://wakatime.com/@969f949e-b0e5-4f95-8225-6d0354fe3bd6)  
+![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)  
 
 </div>  
