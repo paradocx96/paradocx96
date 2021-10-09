@@ -1,24 +1,24 @@
 
-<div align="center">
-<img align="center" alt="GIF" height="300px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" />
+<!-- <div align="center">
+<img align="center" alt="GIF" height="300px" src="https://github.com/paradocx96/paradocx96/blob/main/images/stormtroopocat.png" /> -->
 
 ### Hi there, I'm [Navinda Lankesh](https://github.com/paradocx96) 👋
 
 </div>  
 
-### About Me! 🤩 &nbsp;
+<!-- ### About Me! 🤩 &nbsp;
 
 I'm a third year student pursuing _***BSc(Hons) Information Technology Specialising in Software Engineering***_ 🎓 from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">Sri Lanka Institute of Information Technology</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
-
+ -->
 ### ⚡ Know more about me ⚡  
 - 🔭 I’m currently working on React-Project.
 - 🌱 I’m currently learning React JS & Vue JS.
 - 👯 I’m looking to collaborate with other develoopers.
 - 💬 Ask me about Java & JavaScript.
 
-### ⚡ Technologies I Use ⚡  
+<!-- ### ⚡ Technologies I Use ⚡  
 
 | ⚡ | ⚡ |
 |-----|----|
@@ -43,10 +43,10 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
 </a>
 <br />
 <br />
-
+-->
 
 <div align="center">  
-  
+<!--   
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/paradocx96)  
   
@@ -81,7 +81,7 @@ I'm a third year student pursuing _***BSc(Hons) Information Technology Specialis
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>  
+</details>    -->
 
 [![wakatime](https://wakatime.com/badge/user/969f949e-b0e5-4f95-8225-6d0354fe3bd6.svg)](https://wakatime.com/@969f949e-b0e5-4f95-8225-6d0354fe3bd6)  
 ![VisitorCount](https://profile-counter.glitch.me/{paradocx96}/count.svg)  
