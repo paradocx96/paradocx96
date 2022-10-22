@@ -67,6 +67,7 @@ I'm a final year student pursuing _***BSc(Hons) Information Technology Specialis
 </div>  
 
 
+[![@paradocx96's Holopin board](https://holopin.me/paradocx96)](https://holopin.io/@paradocx96)
 
 ### ⚡ Contact Me ⚡  
 
