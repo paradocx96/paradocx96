@@ -49,7 +49,8 @@ I'm a final year student pursuing _***BSc(Hons) Information Technology Specialis
   <br/>  
   
   [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paradocx96&theme=redical)](https://github.com/paradocx96)  
-  
+
+
 </details>  
   
 <details> 
