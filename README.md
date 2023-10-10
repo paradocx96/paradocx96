@@ -67,7 +67,10 @@ I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.
 <details> 
   <summary>💻 GitHub Wakatime Stats</summary>
   <br/>
-  
+
+  <a href="https://wakatime.com/@paradocx96">
+    <img src="https://wakatime.com/share/@paradocx96/f224f51b-8e85-452f-a329-7bc8bdab5bff.png"/>
+  </a>  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@paradocx96&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
   
   [_Wakatime stats since Feb-17-2021_](https://wakatime.com/@paradocx96)
