@@ -87,6 +87,7 @@ I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.
 
 [![@paradocx96's Holopin board](https://holopin.me/paradocx96)](https://holopin.io/@paradocx96)
 
+<!--   
 ### ⚡ Contact Me ⚡  
 
 <a href="https://www.linkedin.com/in/navinda-lankesh/">
@@ -101,3 +102,4 @@ I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.
 <a href="https://dev.to/paradocx96/">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Navinda Lankesh's DEV Profile">
 </a>
+-->
