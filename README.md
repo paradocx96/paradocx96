@@ -8,22 +8,20 @@
 
 ### About Me! 🤩 &nbsp;
 
-I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">SLIIT</a> 🏛 with a _***BSc(Hons) IT Specializing in Software Engineering***_ 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
+I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.lk" target="_blank">SLIIT</a> 🏛 with a _***BSc(Hons) Software Engineering***_ 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. 
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/paradocx96/paradocx96/blob/main/images/daftpunktocat-guy.gif" />
 
 ### ⚡ Know more about me ⚡  
 - 🔭 I’m currently working on Freelance Projects.
-- 🌱 I’m currently learning JavaScript & TypeScript Frameworks.
+- 🌱 I’m currently learning new Frameworks.
 - 👯 I’m looking to collaborate with other develoopers.
-- 💬 Ask me about Java, JavaScript & Python.
+- 💬 Ask me about JavaScript, TypeScript & Python.
 
 ### ⚡ Languages I Use ⚡  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript) 
 
  
