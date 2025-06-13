@@ -23,12 +23,12 @@ I'm a Software Engineering graduate from <a alt="SLIIT" href="https://www.sliit.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript) 
-
  
 <br />
 <div align="center">  
   
 
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/paradocx96.svg)](https://user-badge.committers.top/sri_lanka_private/paradocx96)  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paradocx96&theme=dark&hide_border=true)](https://github.com/paradocx96)  
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paradocx96&theme=redical)](https://github.com/paradocx96)  
   <a href="https://github.com/anuraghazra/github-readme-stats">
