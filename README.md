@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navinda-chandrasiri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://navindachandrasiri.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navindadev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navindalankesh@outlook.com)
 
 </div>
 
@@ -21,7 +21,7 @@ I'm a **Senior Software Engineer** with **5+ years** architecting enterprise-sca
 - 🔭 Currently working on intelligent systems combining **LLMs** and **RAG pipelines**
 - 🌱 Building production applications with **React**, **Next.js**, **Node.js**, **Python**, and **TypeScript**
 - 💡 Passionate about **AI/ML integration**, **real-time systems**, and **cloud architecture**
-- 📫 Reach me at: **navindadev@gmail.com**
+- 📫 Reach me at: **navindalankesh@outlook.com**
 - 🌍 Based in **Colombo, Sri Lanka** | Open to remote opportunities globally
 
 ---
@@ -112,7 +112,7 @@ I'm actively seeking **Full-Stack** and **AI Software Engineer** roles where I c
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navinda-lankesh)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navindadev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navindalankesh@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://navindachandrasiri.vercel.app)
 [![Phone](https://img.shields.io/badge/Phone-+94773973335-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94773973335)
 
