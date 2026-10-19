@@ -52,8 +52,7 @@ growing focus on **DevOps, cloud engineering, and site reliability**.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
-> **AWS Services:** EC2, ECS Fargate, ECR, Lambda, API Gateway, RDS, DynamoDB, S3, VPC, IAM, ALB, Route 53, CloudFront,
-> WAF, CloudWatch, EventBridge, SQS, SNS, SES, KMS, Secrets Manager, Cognito, and AppSync.
+> **AWS Services:** EC2, ECS, ECR, Lambda, API Gateway, RDS, DynamoDB, S3, VPC, ALB, IAM, Route 53, CloudFront, WAF, CloudWatch, EventBridge, SQS, SNS, SES, KMS, Secrets Manager, Cognito, and AppSync.
 
 ### Languages & Application Development
 
